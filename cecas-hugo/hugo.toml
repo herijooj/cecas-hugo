@@ -4,9 +4,6 @@ title = 'CECAS/SBC'
 theme = 'PaperMod'
 
 [params]
-  # PaperMod theme parameters
-  homeInfoParams = { Title = "Comissão Especial de Computação Aplicada à Saúde", Content = "A Comissão Especial de Computação Aplicada à Saúde (CECAS) foi aprovada em julho de 2007 e tem por objetivo auxiliar a SBC no fomento e no desenvolvimento da área de Computação aplicada à saúde, criando um espaço de divulgação e integração de pesquisas." }
-  
   # Enable search
   fuseOpts = { isCaseSensitive = false, shouldSort = true, location = 0, distance = 1000, threshold = 0.4, minMatchCharLength = 0, keys = ["title", "permalink", "summary", "content"] }
 
