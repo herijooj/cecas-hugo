@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/memorial-artur-ziviani/</loc>
+    <lastmod>2025-07-31T18:41:17-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/grupos-de-pesquisa/</loc>
+    <lastmod>2025-07-31T18:41:12-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/eventos/publicacoes/</loc>
+    <lastmod>2025-07-31T18:41:03-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/eventos/</loc>
+    <lastmod>2025-07-31T18:40:56-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/documentos/</loc>
+    <lastmod>2025-07-31T18:40:51-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-07-31T18:40:47-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url>
+</urlset>
